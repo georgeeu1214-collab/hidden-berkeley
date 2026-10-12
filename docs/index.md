@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Hidden Berkeley
+# Berkeley Beyond the Bears
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+Berkeley has plenty of useful places and services that are easy to miss if you only know the main campus. This guide collects a few of them in one spot, but hours and access rules change, so always check the official link before you go.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
