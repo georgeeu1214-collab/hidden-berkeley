@@ -17,8 +17,11 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+This guide is for new Berkeley students who want a quick starting list of useful places and services beyond the main campus landmarks. The first eight resources were supplied by COMPSS 211A. I added [Moffitt Library](https://www.lib.berkeley.edu/visit/moffitt) and checked its name, location, and access details on that official library page.
+
 
 ## Website checks
 
-After publishing your changes, replace this paragraph with the live website link, the existing entry you improved, the new resource you added, and what you checked on the website. Say whether the displayed values match your CSV and whether the official links open the intended pages.
+Live website: https://georgeeu1214-collab.github.io/hidden-berkeley/
+
+I improved the existing Morrison Library entry (HB03) by adding an access note about its location in Doe Library and a link to its official page. I added Moffitt Library as a new resource. On the published site, I checked that my new heading and introduction appear, that the Morrison entry shows the updated access note, that the Moffitt entry shows all five fields (name, category, area, access note, and source link), and that both official links work. The displayed values match my CSV, and the Morrison and Moffitt links open the correct UC Berkeley Library pages.
